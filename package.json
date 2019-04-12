@@ -1,0 +1,23 @@
+{
+  "name": "Sass_Sandbox",
+  "version": "1.0.0",
+  "description": "Sass Examples",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shiyu3169/Sass_Sandbox.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shiyu3169/Sass_Sandbox/issues"
+  },
+  "homepage": "https://github.com/shiyu3169/Sass_Sandbox#readme",
+  "dependencies": {
+    "node-sass": "^4.11.0"
+  }
+}
